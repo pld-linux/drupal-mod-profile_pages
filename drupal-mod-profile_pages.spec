@@ -1,6 +1,6 @@
 %define		modname profile_pages
 Summary:	Drupal Site Profile Directory Module
-Summary(pl.UTF-8):   Moduł katalogu profili dla Drupala
+Summary(pl.UTF-8):	Moduł katalogu profili dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
 Release:	0.1
