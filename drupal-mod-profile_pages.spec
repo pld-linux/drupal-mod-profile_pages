@@ -1,6 +1,6 @@
 %define		modname profile_pages
 Summary:	Drupal Site Profile Directory Module
-Summary(pl):	Modu≥ katalogu profili dla Drupala
+Summary(pl.UTF-8):   Modu≈Ç katalogu profili dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
 Release:	0.1
@@ -22,10 +22,10 @@ profile_field filled in, similar to a site directory of users with
 that information listed (i.e., users with an AOL Instant Messenger or
 XFire account).
 
-%description -l pl
-Modu≥ wy∂wietlaj±cy kaødego uøytkownika na stronie z wype≥nionym
-pewnym polem profile_field, podobnie do katalogu strony uøytkownikÛw z
-podan± t± informacj± (np. uøytkownikÛw z kontami komunikatora AOL
+%description -l pl.UTF-8
+Modu≈Ç wy≈õwietlajƒÖcy ka≈ºdego u≈ºytkownika na stronie z wype≈Çnionym
+pewnym polem profile_field, podobnie do katalogu strony u≈ºytkownik√≥w z
+podanƒÖ tƒÖ informacjƒÖ (np. u≈ºytkownik√≥w z kontami komunikatora AOL
 Instant Messenger czy XFire).
 
 %prep
